@@ -8,6 +8,8 @@ https://www.abs.gov.au/statistics/economy/key-indicators
 2. Preprocess the data to columnwise with correct datetime formating.
 3. Highlight correlations and p-values
 
+If you get a notebook viewing error like `The notebook took too long to render` press `crtl+shift+r` to reload and clear cache in chrome.
+
 ## Indicators in the Notebook:
 ` Seasonally adjusted Sales ($m) Rental hiring and real estate services Chain volume measures `
 
